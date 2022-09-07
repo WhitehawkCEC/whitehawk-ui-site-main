@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/cmmc-2-0-four-changes-you-need-to-know", {data:[{}],fetch:{},mutations:void 0});

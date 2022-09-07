@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/2021-cyber-attacks-in-australia", {data:[{}],fetch:{},mutations:void 0});

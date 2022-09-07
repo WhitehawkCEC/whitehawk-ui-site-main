@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/lessons-to-be-learned-from-a-10-billion-cyberattack", {data:[{}],fetch:{},mutations:void 0});

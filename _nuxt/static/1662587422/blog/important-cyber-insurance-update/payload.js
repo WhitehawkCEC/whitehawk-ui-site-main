@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/important-cyber-insurance-update", {data:[{}],fetch:{},mutations:void 0});

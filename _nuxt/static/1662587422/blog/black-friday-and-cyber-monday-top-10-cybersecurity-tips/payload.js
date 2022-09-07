@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/black-friday-and-cyber-monday-top-10-cybersecurity-tips", {data:[{}],fetch:{},mutations:void 0});

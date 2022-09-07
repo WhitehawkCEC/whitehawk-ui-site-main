@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ui/buttons", {data:[{}],fetch:{},mutations:void 0});

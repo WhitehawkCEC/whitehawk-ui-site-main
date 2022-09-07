@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/australia-s-defense-programs-breached-in-cyber-attack", {data:[{}],fetch:{},mutations:void 0});

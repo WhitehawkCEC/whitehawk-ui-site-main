@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/australia-needs-a-stronger-cyber-regulatory-framework", {data:[{}],fetch:{},mutations:void 0});

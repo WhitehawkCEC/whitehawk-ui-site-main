@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/rane-podcast-making-cyber-risk-rating-and-reporting-a-systemic-part-of-doing-business", {data:[{}],fetch:{},mutations:void 0});

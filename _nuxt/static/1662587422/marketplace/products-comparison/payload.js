@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marketplace/products-comparison", {data:[{}],fetch:{},mutations:void 0});

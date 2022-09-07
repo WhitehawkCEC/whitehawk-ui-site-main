@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cyber-risk-paas", {data:[{}],fetch:{},mutations:void 0});

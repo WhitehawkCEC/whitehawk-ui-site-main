@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/white-hawk-top-12-innovative-cyber-and-risk-analytics-companies", {data:[{}],fetch:{},mutations:void 0});

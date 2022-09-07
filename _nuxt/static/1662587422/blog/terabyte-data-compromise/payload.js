@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/terabyte-data-compromise", {data:[{}],fetch:{},mutations:void 0});

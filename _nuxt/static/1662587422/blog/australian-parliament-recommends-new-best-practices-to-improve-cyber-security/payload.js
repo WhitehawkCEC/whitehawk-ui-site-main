@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/australian-parliament-recommends-new-best-practices-to-improve-cyber-security", {data:[{}],fetch:{},mutations:void 0});

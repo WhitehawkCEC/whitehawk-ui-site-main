@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/is-your-security-team-addressing-log4-j", {data:[{}],fetch:{},mutations:void 0});

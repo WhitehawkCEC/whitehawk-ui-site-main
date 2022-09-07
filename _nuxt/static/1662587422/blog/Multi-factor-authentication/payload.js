@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/Multi-factor-authentication", {data:[{}],fetch:{},mutations:void 0});

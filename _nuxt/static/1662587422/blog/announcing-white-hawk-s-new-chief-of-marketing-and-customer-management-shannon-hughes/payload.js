@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/announcing-white-hawk-s-new-chief-of-marketing-and-customer-management-shannon-hughes", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/blockchain-s-killer-app-making-trade-wars-obsolete", {data:[{}],fetch:{},mutations:void 0});

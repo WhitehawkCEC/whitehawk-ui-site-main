@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/the-average-ransomware-payment-is-rising", {data:[{}],fetch:{},mutations:void 0});

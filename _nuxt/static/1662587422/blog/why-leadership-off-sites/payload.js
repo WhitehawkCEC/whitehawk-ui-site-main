@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/why-leadership-off-sites", {data:[{}],fetch:{},mutations:void 0});

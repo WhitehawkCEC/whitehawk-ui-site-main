@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/the-cyber-wire-provides-summaries-of-the-lates-events", {data:[{}],fetch:{},mutations:void 0});

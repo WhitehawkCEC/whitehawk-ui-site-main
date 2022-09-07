@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/blockchain-to-microelectronics-supply-chain", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/executives-can-be-an-easy-cyber-target", {data:[{}],fetch:{},mutations:void 0});

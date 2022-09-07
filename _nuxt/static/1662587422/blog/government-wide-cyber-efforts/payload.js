@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/government-wide-cyber-efforts", {data:[{}],fetch:{},mutations:void 0});

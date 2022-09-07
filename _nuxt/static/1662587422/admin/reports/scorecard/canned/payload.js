@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/reports/scorecard/canned", {data:[{}],fetch:{},mutations:void 0});

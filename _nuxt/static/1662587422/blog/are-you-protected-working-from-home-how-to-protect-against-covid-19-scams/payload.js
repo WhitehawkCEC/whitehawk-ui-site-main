@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/are-you-protected-working-from-home-how-to-protect-against-covid-19-scams", {data:[{}],fetch:{},mutations:void 0});

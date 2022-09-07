@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/third-party-supply-chain-infrastructure-in-australia", {data:[{}],fetch:{},mutations:void 0});

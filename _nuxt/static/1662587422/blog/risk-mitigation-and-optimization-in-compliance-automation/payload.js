@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/risk-mitigation-and-optimization-in-compliance-automation", {data:[{}],fetch:{},mutations:void 0});

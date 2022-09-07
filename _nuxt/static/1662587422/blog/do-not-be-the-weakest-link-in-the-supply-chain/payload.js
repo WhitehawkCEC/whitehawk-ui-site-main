@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/do-not-be-the-weakest-link-in-the-supply-chain", {data:[{}],fetch:{},mutations:void 0});

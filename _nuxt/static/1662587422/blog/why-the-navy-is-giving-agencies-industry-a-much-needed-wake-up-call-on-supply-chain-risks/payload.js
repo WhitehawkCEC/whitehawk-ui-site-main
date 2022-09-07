@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/why-the-navy-is-giving-agencies-industry-a-much-needed-wake-up-call-on-supply-chain-risks", {data:[{}],fetch:{},mutations:void 0});

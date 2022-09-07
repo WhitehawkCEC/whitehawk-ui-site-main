@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/white-hawk-year-in-review", {data:[{}],fetch:{},mutations:void 0});

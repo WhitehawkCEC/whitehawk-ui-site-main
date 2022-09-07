@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/6-types-of-email-cyber-crime-methods-phishing-to-watch-out-for-in-2019", {data:[{}],fetch:{},mutations:void 0});

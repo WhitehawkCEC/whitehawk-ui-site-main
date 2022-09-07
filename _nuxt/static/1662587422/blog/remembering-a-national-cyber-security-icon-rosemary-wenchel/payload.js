@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/remembering-a-national-cyber-security-icon-rosemary-wenchel", {data:[{}],fetch:{},mutations:void 0});

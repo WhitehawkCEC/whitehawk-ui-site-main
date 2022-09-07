@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/how-businesses-can-reduce-the-financial-impact-of-data-breaches", {data:[{}],fetch:{},mutations:void 0});

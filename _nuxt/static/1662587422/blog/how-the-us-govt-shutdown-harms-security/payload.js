@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/how-the-us-govt-shutdown-harms-security", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/australian-schools-consider-adding-cybersecurity-to-curriculum", {data:[{}],fetch:{},mutations:void 0});
