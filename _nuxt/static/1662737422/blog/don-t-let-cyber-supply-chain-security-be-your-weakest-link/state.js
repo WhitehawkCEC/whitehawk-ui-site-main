@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1662737422",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fdon-t-let-cyber-supply-chain-security-be-your-weakest-link",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
