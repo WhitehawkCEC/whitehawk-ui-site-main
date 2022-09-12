@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1662993249",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Ftop-takeaways-for-businesses-how-equifax-and-wanna-cry-could-have-been-avoided",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
