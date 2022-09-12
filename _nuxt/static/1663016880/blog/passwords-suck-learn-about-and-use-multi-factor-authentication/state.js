@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663016880",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fpasswords-suck-learn-about-and-use-multi-factor-authentication",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
