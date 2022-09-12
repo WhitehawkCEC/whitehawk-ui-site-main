@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/supply-wisdom", {data:[{}],fetch:{},mutations:void 0});
