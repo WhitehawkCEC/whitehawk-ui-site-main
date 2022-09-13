@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663104937",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fcyber-security-for-a-new-america-conference-big-ideas-for-the-future-of-cyber-security",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
