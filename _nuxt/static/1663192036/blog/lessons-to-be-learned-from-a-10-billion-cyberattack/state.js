@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663192036",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Flessons-to-be-learned-from-a-10-billion-cyberattack",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
