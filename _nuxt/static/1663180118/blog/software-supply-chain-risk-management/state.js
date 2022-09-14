@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663180118",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fsoftware-supply-chain-risk-management",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
