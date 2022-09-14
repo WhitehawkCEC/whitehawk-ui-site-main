@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663184241",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fthe-condition-of-doing-business-with-the-department-of-defense",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
