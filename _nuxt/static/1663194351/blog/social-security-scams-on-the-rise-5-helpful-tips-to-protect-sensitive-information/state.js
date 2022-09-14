@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1663194351",layout:"siteMain",error:a,serverRendered:true,routePath:"\u002Fblog\u002Fsocial-security-scams-on-the-rise-5-helpful-tips-to-protect-sensitive-information",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{},pinia:{user:{}}}}(null));
