@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/5-g-is-the-solution", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/digital-business-brings-new-risks", {data:[{}],fetch:{},mutations:void 0});

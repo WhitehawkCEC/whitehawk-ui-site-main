@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/holiday-security-using-modern-technology-to-protect-your-guests", {data:[{}],fetch:{},mutations:void 0});

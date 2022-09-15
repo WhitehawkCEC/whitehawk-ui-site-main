@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/announcing-white-hawk-s-new-chief-of-business-operations-and-cyber-security-trevor-rudolph", {data:[{}],fetch:{},mutations:void 0});

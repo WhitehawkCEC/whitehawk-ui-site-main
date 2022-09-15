@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/new-vulnerabilities-impacting-your-business-and-what-precautions-to-take", {data:[{}],fetch:{},mutations:void 0});

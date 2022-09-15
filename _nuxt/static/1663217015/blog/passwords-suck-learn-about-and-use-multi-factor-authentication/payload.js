@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/passwords-suck-learn-about-and-use-multi-factor-authentication", {data:[{}],fetch:{},mutations:void 0});

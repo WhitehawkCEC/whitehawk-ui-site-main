@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/10-rules-for-cybersecurity-salespeople", {data:[{}],fetch:{},mutations:void 0});

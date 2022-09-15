@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/fight-the-phish-and-be-cyber-smart", {data:[{}],fetch:{},mutations:void 0});

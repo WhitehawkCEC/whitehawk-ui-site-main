@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/know-be4-security-awareness-training", {data:[{}],fetch:{},mutations:void 0});

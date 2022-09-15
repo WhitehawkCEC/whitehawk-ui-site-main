@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/renewed-focus-on-government-supply-chain-risks-and-mitigation", {data:[{}],fetch:{},mutations:void 0});

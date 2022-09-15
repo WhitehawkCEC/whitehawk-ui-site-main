@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/recommendations-from-the-ransomware-task-force", {data:[{}],fetch:{},mutations:void 0});

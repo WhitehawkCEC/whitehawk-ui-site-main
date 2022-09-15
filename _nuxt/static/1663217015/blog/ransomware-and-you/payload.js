@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/ransomware-and-you", {data:[{}],fetch:{},mutations:void 0});

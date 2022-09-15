@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks", {data:[{}],fetch:{},mutations:void 0});

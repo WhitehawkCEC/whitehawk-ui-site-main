@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/study-shows-increase-in-cybersecurity-incidents", {data:[{}],fetch:{},mutations:void 0});

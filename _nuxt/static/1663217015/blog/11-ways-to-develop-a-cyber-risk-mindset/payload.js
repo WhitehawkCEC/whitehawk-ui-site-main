@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/11-ways-to-develop-a-cyber-risk-mindset", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/who-profits-off-of-nonprofit-organizations", {data:[{}],fetch:{},mutations:void 0});

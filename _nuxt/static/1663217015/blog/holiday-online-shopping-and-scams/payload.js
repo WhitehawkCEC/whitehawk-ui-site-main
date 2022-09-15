@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/holiday-online-shopping-and-scams", {data:[{}],fetch:{},mutations:void 0});

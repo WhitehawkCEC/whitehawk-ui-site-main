@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/practical-approach-to-developing-a-cyber-risk-strategy", {data:[{}],fetch:{},mutations:void 0});

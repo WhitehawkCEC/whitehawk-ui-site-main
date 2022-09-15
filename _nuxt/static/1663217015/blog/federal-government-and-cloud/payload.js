@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/federal-government-and-cloud", {data:[{}],fetch:{},mutations:void 0});

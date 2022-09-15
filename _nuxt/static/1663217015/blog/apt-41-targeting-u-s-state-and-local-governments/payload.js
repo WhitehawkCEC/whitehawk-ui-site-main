@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/apt-41-targeting-u-s-state-and-local-governments", {data:[{}],fetch:{},mutations:void 0});

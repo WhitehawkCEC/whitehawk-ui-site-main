@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/new-tool-automates-phishing-attacks-that-bypass-2fa", {data:[{}],fetch:{},mutations:void 0});

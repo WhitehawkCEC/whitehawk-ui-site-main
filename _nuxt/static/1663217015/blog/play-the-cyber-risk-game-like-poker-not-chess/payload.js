@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/play-the-cyber-risk-game-like-poker-not-chess", {data:[{}],fetch:{},mutations:void 0});

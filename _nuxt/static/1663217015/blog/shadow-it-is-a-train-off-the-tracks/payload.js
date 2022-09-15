@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/shadow-it-is-a-train-off-the-tracks", {data:[{}],fetch:{},mutations:void 0});

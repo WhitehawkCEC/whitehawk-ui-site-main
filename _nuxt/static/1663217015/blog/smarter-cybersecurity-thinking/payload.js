@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/smarter-cybersecurity-thinking", {data:[{}],fetch:{},mutations:void 0});

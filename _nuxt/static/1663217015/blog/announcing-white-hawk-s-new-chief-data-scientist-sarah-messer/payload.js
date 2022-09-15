@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/announcing-white-hawk-s-new-chief-data-scientist-sarah-messer", {data:[{}],fetch:{},mutations:void 0});

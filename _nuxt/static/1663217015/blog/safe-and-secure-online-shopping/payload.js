@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/safe-and-secure-online-shopping", {data:[{}],fetch:{},mutations:void 0});

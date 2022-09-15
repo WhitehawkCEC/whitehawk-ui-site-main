@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/cyber-security-frameworks-a-nist-risk-management", {data:[{}],fetch:{},mutations:void 0});

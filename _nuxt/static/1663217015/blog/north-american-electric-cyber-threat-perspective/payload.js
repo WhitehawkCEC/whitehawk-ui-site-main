@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/north-american-electric-cyber-threat-perspective", {data:[{}],fetch:{},mutations:void 0});

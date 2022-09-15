@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/incorporating-cyberintelligence-into-your-board", {data:[{}],fetch:{},mutations:void 0});

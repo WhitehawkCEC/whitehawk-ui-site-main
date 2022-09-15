@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/wanna-cry-with-white-hawk-coo-trevor-rudolph", {data:[{}],fetch:{},mutations:void 0});

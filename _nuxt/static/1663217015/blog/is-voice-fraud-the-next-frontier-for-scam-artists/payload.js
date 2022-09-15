@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/is-voice-fraud-the-next-frontier-for-scam-artists", {data:[{}],fetch:{},mutations:void 0});

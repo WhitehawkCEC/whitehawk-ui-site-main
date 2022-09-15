@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/understanding-the-federal-trade-commission-s-ftc-cyber-security-expectations", {data:[{}],fetch:{},mutations:void 0});

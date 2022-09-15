@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/what-is-the-gdpr-and-what-does-it-mean-for-small-businesses", {data:[{}],fetch:{},mutations:void 0});

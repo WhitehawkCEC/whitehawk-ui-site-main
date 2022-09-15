@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/the-condition-of-doing-business-with-the-department-of-defense", {data:[{}],fetch:{},mutations:void 0});

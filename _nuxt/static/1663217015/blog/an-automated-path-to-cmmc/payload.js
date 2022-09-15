@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/an-automated-path-to-cmmc", {data:[{}],fetch:{},mutations:void 0});

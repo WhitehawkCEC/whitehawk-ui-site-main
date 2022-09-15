@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/new-cyber-security-requirements", {data:[{}],fetch:{},mutations:void 0});

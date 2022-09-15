@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/phishing-scams-keep-getting-smarter-making-them-difficult-to-spot", {data:[{}],fetch:{},mutations:void 0});

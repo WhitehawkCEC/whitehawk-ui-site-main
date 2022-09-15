@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/white-hawk-s-12-days-of-cyber", {data:[{}],fetch:{},mutations:void 0});
