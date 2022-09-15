@@ -28,6 +28,21 @@
  */
 
 
+/*!
+ * is-number <https://github.com/jonschlinkert/is-number>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * randomatic <https://github.com/jonschlinkert/randomatic>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
@@ -45,14 +60,33 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * is-number <https://github.com/jonschlinkert/is-number>
+ * Determine if an object is a Buffer
  *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
  */
 
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
 /*!
- * randomatic <https://github.com/jonschlinkert/randomatic>
+ * vue-carousel v0.18.0-alpha
+ * (c) 2019 todd.beauchamp@ssense.com
+ * https://github.com/ssense/vue-carousel#readme
+ */
+
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+/*!
+ * is-number <https://github.com/jonschlinkert/is-number>
  *
  * Copyright (c) 2014-2017, Jon Schlinkert.
  * Released under the MIT License.
@@ -73,6 +107,21 @@ PERFORMANCE OF THIS SOFTWARE.
  * Released under the MIT License
  */
 
+
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
+
 /*!
  * chartjs-adapter-date-fns v2.0.0
  * https://www.chartjs.org
@@ -82,14 +131,37 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * Determine if an object is a Buffer
+DOMTokenList
+*/
+
+/*!
+Element.closest and Element.matches
+https://github.com/jonathantneal/closest
+Creative Commons Zero v1.0 Universal
+*/
+
+/*!
+Element.getRootNode()
+*/
+
+/*!
+Element.isConnected()
+*/
+
+
+/*!
+ * randomatic <https://github.com/jonschlinkert/randomatic>
  *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
 
-/*! *****************************************************************************
-Copyright (c) Microsoft Corporation.
+
+/*! cpexcel.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*! cputils.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
 
 
 /**
@@ -105,11 +177,10 @@ Copyright (c) Microsoft Corporation.
 
 
 /*!
- * chartjs-adapter-date-fns v2.0.0
- * https://www.chartjs.org
- * (c) 2021 chartjs-adapter-date-fns Contributors
- * Released under the MIT license
- */
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
 
 
 /*!
@@ -147,85 +218,6 @@ Copyright (c) Microsoft Corporation.
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */
-
-/**
- * @license
- * Lodash <https://lodash.com/>
- * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
- * Released under MIT license <https://lodash.com/license>
- * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
- * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
- */
-
-
-//! invalid number
-
-/*!
- * is-number <https://github.com/jonschlinkert/is-number>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
- */
-
-/*!
- * repeat-string <https://github.com/jonschlinkert/repeat-string>
- *
- * Copyright (c) 2014-2015, Jon Schlinkert.
- * Licensed under the MIT License.
- */
-
-
-/**
- * @license
- * Lodash <https://lodash.com/>
- * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
- * Released under MIT license <https://lodash.com/license>
- * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
- * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
- */
-
-
-/*!
-  Copyright (c) 2018 Jed Watson.
-  Licensed under the MIT License (MIT), see
-  http://jedwatson.github.io/classnames
-*/
-
-
-/*!
- * vue-carousel v0.18.0-alpha
- * (c) 2019 todd.beauchamp@ssense.com
- * https://github.com/ssense/vue-carousel#readme
- */
-
-
-/*!
-DOMTokenList
-*/
-
-/*!
-Element.closest and Element.matches
-https://github.com/jonathantneal/closest
-Creative Commons Zero v1.0 Universal
-*/
-
-/*!
-Element.getRootNode()
-*/
-
-/*!
-Element.isConnected()
-*/
-
-
 /*!
  * JavaScript Cookie v2.2.1
  * https://github.com/js-cookie/js-cookie
@@ -247,20 +239,15 @@ Element.isConnected()
  * MIT Licensed
  */
 
-
 /*!
- * randomatic <https://github.com/jonschlinkert/randomatic>
+ * repeat-string <https://github.com/jonschlinkert/repeat-string>
  *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
+ * Copyright (c) 2014-2015, Jon Schlinkert.
+ * Licensed under the MIT License.
  */
 
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
+
+//! invalid number
 
 
 /*!
@@ -326,16 +313,12 @@ Element.isConnected()
  */
 
 
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
-
-
-/*! cpexcel.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/*! cputils.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
+/*!
+ * chartjs-adapter-date-fns v2.0.0
+ * https://www.chartjs.org
+ * (c) 2021 chartjs-adapter-date-fns Contributors
+ * Released under the MIT license
+ */
 
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
@@ -346,3 +329,15 @@ LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
+
+
+/**
+ * table-core
+ *
+ * Copyright (c) TanStack
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
