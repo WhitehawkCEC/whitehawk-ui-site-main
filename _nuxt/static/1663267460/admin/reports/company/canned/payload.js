@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/reports/company/canned", {data:[{}],fetch:{},mutations:void 0});

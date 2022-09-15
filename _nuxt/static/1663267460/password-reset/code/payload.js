@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/password-reset/code", {data:[{}],fetch:{},mutations:void 0});

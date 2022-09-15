@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/custom-questionnaires", {data:[{}],fetch:{},mutations:void 0});

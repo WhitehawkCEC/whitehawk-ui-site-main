@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ui/typography", {data:[{}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marketplace/aws/register/success", {data:[{}],fetch:{},mutations:void 0});
