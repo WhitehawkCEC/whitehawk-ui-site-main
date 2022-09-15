@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[91],{2197:function(e,n,r){"use strict";r.r(n);var t=r(55),component=Object(t.a)({},(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("Display Scorecard Here")])}),[],!1,null,null,null);n.default=component.exports}}]);
