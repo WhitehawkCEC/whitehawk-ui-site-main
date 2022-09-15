@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/reports/marketplace/adhoc", {data:[{}],fetch:{},mutations:void 0});

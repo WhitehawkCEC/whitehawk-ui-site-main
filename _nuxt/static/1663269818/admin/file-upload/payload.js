@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/file-upload", {data:[{}],fetch:{},mutations:void 0});
