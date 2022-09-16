@@ -20,21 +20,6 @@ PERFORMANCE OF THIS SOFTWARE.
   http://jedwatson.github.io/classnames
 */
 
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-
-/*!
- * Determine if an object is a Buffer
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
 
 /*!
  * @kurkle/color v0.2.1
@@ -48,21 +33,6 @@ PERFORMANCE OF THIS SOFTWARE.
  * https://www.chartjs.org
  * (c) 2022 Chart.js Contributors
  * Released under the MIT License
- */
-
-
-/*!
- * is-number <https://github.com/jonschlinkert/is-number>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
- */
-
-/*!
- * randomatic <https://github.com/jonschlinkert/randomatic>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
  */
 
 
@@ -95,18 +65,64 @@ PERFORMANCE OF THIS SOFTWARE.
  * @license MIT
  */
 
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+
 /*!
- * @kurkle/color v0.2.1
- * https://github.com/kurkle/color#readme
- * (c) 2022 Jukka Kurkela
- * Released under the MIT License
+  * pinia v2.0.22
+  * (c) 2022 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/*!
+ * Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * SPDX-License-Identifier: Apache-2.0
  */
 
 /*!
- * chartjs-adapter-date-fns v2.0.0
- * https://www.chartjs.org
- * (c) 2021 chartjs-adapter-date-fns Contributors
- * Released under the MIT license
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * vue-client-only v0.0.0-semantic-release
+ * (c) 2021-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*!
+ * is-number <https://github.com/jonschlinkert/is-number>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * randomatic <https://github.com/jonschlinkert/randomatic>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
  */
 
 
@@ -173,21 +189,12 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */
-
-
-/*! cpexcel.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/*! cputils.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
 
 /*!
  * is-number <https://github.com/jonschlinkert/is-number>
@@ -198,6 +205,27 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
+ * randomatic <https://github.com/jonschlinkert/randomatic>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+
+/*! cpexcel.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*! cputils.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*!
  * chartjs-adapter-date-fns v2.0.0
  * https://www.chartjs.org
  * (c) 2021 chartjs-adapter-date-fns Contributors
@@ -206,18 +234,10 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 /*!
- * randomatic <https://github.com/jonschlinkert/randomatic>
- *
- * Copyright (c) 2014-2017, Jon Schlinkert.
- * Released under the MIT License.
- */
-
-
-/*!
- * Chart.js v3.9.1
+ * chartjs-adapter-date-fns v2.0.0
  * https://www.chartjs.org
- * (c) 2022 Chart.js Contributors
- * Released under the MIT License
+ * (c) 2021 chartjs-adapter-date-fns Contributors
+ * Released under the MIT license
  */
 
 
@@ -260,6 +280,11 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
+
+
 /*!__STENCIL_STATIC_IMPORT_SWITCH__*/
 
 
@@ -269,42 +294,6 @@ PERFORMANCE OF THIS SOFTWARE.
  * Copyright (c) 2014-2015, Jon Schlinkert.
  * Licensed under the MIT License.
  */
-
-
-/*!
-  * pinia v2.0.22
-  * (c) 2022 Eduardo San Martin Morote
-  * @license MIT
-  */
-
-/*!
- * Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
- * SPDX-License-Identifier: Apache-2.0
- */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
- * vue-client-only v0.0.0-semantic-release
- * (c) 2021-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
 
 /*!
 DOMTokenList
@@ -326,11 +315,6 @@ Element.isConnected()
 
 
 //! invalid number
-
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/** @license URI.js v4.4.1 (c) 2011 Gary Court. License: http://github.com/garycourt/uri-js */
 
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
