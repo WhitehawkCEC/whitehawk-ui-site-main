@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/whitehawk-limited", {data:[{}],fetch:{},mutations:void 0});
