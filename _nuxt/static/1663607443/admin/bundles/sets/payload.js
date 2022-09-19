@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/bundles/sets", {data:[{},{}],fetch:{},mutations:void 0});

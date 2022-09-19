@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/bundles/templates", {data:[{},{}],fetch:{},mutations:void 0});
