@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[180],{2292:function(e,n,t){"use strict";t.r(n);var l=t(55),component=Object(l.a)({},(function(){var e=this,n=e.$createElement;return(e._self._c||n)("section",[e._v("TODO: add supplier products list here")])}),[],!1,null,null,null);n.default=component.exports}}]);
