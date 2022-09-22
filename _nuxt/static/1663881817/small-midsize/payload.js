@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/small-midsize", {data:[{}],fetch:{},mutations:void 0});

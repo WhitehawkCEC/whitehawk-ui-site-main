@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/training-and-education", {data:[{}],fetch:{},mutations:void 0});

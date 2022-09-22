@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/products/features", {data:[{}],fetch:{},mutations:void 0});

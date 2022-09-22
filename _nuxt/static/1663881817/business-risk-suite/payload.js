@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/business-risk-suite", {data:[{}],fetch:{},mutations:void 0});

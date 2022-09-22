@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/cmmc", {data:[{}],fetch:{},mutations:void 0});
