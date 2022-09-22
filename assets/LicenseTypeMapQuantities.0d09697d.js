@@ -1,0 +1,1 @@
+import{c}from"./index.2de808b0.js";function p(o,e){return c(()=>{var a,u,i,t;const n=o.value,r=((a=n==null?void 0:n.annual)==null?void 0:a.quantity)||0,l=((u=n==null?void 0:n.oneTime)==null?void 0:u.quantity)||0,m=((i=e.value)==null?void 0:i.annual)||0,s=((t=e.value)==null?void 0:t.oneTime)||0;return{annual:m-r,oneTime:s-l}})}export{p as u};
