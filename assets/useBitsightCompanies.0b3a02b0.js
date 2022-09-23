@@ -1,0 +1,1 @@
+import{f as s,g as t,h as i}from"./index.61046fbe.js";const p={read(e,a){return s(["companies",e,"bitsight","companies",a],()=>t.get(`${i}/companies/${e.value}/bitsight/companies/${a.value}`).then(n=>n.data))},list(e){return s(["companies",e,"bitsight","companies"],()=>t.get(`${i}/companies/${e.value}/bitsight/companies`).then(a=>a.data))}};export{p as u};
