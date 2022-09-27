@@ -1,1 +1,0 @@
-import{n as r}from"./index.e8125a1f.js";var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("BaseLink",{attrs:{append:"",to:"license-batches"}},[e._v("Licenses")])],1)},c=[];const _={},s={};var a=r(_,o,c,!1,i,null,null,null);function i(e){for(let n in s)this[n]=s[n]}const u=function(){return a.exports}();export{u as default};
