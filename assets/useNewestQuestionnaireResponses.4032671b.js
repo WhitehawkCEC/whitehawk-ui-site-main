@@ -1,0 +1,1 @@
+import{ai as a,aP as n,aQ as t}from"./index.c9b820a8.js";const r={get(e){return a(["companies",e,"questionnaire-responses","newest"],()=>n.get(`${t}/companies/${e.value}/questionnaire-responses/newest`).then(s=>s.data))}};export{r as u};
