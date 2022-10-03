@@ -1,0 +1,1 @@
+import{t as r}from"./index.3b105384.js";import{ap as n}from"./index.d54d5431.js";function g(m,e){n(2,arguments);var t=r(m).getTime(),i=r(e.start).getTime(),a=r(e.end).getTime();if(!(i<=a))throw new RangeError("Invalid interval");return t>=i&&t<=a}export{g as i};
