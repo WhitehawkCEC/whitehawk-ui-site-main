@@ -1,0 +1,1 @@
+import{ai as n,d as s,aQ as r,aR as t}from"./index.f84b221a.js";const i={list(a,e){return n(["companies",a,"bitsight","companies",e,"performance-evaluation"],()=>r.get(`${t}/companies/${a.value}/bitsight/companies/${e.value}/performance-evaluation`).then(o=>o.data),{enabled:s(()=>e.value!==void 0&&a.value!==void 0)})}};export{i as u};
