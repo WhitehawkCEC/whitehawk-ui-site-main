@@ -1,1 +1,0 @@
-import{n as o}from"./index.0234a3af.js";var s=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("div",[e._v("Display Scorecard Here")])},_=[];const c={},t={};var a=o(c,s,_,!1,l,null,null,null);function l(e){for(let n in t)this[n]=t[n]}const u=function(){return a.exports}();export{u as default};
