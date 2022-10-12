@@ -1,1 +1,0 @@
-import{aW as t,aX as a,aY as u}from"./index.a0615d21.js";const e="product-comparison",d=t(e,()=>{const o=a(`${e}.productIds`,[]);return{productIds:u(o),set(r){o.value=r},remove(r){o.value=o.value.filter(s=>s!==r)}}});export{d as u};
