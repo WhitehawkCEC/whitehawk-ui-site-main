@@ -1,1 +1,0 @@
-import{ap as i,bH as u}from"./index.fed79599.js";import{t as g}from"./index.4251469c.js";function h(n,o){i(2,arguments);var t=g(n),a=u(o);if(isNaN(a))return new Date(NaN);if(!a)return t;var r=t.getDate(),e=new Date(t.getTime());e.setMonth(t.getMonth()+a+1,0);var s=e.getDate();return r>=s?e:(t.setFullYear(e.getFullYear(),e.getMonth(),r),t)}export{h as a};
