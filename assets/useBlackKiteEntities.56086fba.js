@@ -1,0 +1,1 @@
+import{ai as a,aR as i,aS as s}from"./index.ad2ff904.js";const c={list(e){return a(["companies",e,"black-kite","entities"],()=>i.get(`${s}/companies/${e.value}/black-kite/entities`).then(t=>t.data))}};export{c as u};
