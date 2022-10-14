@@ -1,0 +1,1 @@
+import{ag as e,aP as p,aQ as t}from"./index.5f000719.js";const i={read(s,a){return e(["companies",s,"supply-wisdom","assets",a],()=>p.get(`${t}/companies/${s.value}/supply-wisdom-assets/${a.value}`).then(u=>u.data))},list(s){return e(["companies",s,"supply-wisdom","assets"],()=>p.get(`${t}/companies/${s.value}/supply-wisdom-assets`).then(a=>a.data))}};export{i as u};
