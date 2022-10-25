@@ -1,0 +1,1 @@
+import{g as s}from"./index.87e44ac4.js";import{t as o}from"./index.db7b7f99.js";import{an as n}from"./index.676aad97.js";function i(r){n(1,arguments);var t=o(r);return t.setHours(0,0,0,0),t}var g=864e5;function p(r,t){n(2,arguments);var a=i(r),e=i(t),m=a.getTime()-s(a),f=e.getTime()-s(e);return Math.round((m-f)/g)}export{p as d,i as s};
