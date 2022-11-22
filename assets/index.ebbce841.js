@@ -1,0 +1,1 @@
+const n={language:"en-US",currency:"USD"};function r(e){return new Intl.NumberFormat(n.language,{style:"currency",currency:n.currency}).format(e)}function t(e){return new Intl.NumberFormat(n.language,{style:"percent"}).format(e)}export{t as a,r as t};
