@@ -1,0 +1,1 @@
+import{ag as c,c as i,aQ as m,aR as p}from"./index.2cafd56c.js";const o={get(e,a){return c(["companies",e,"bitsight","companies",a,"cis-to-cmmc-mapping"],()=>m.get(`${p}/companies/${e.value}/bitsight/companies/${a.value}/cis-to-cmmc-mapping`).then(s=>s.data),{enabled:i(()=>a.value!==void 0)})}};export{o as u};
