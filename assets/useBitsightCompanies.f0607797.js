@@ -1,1 +1,0 @@
-import{ag as s,aP as t,aQ as i}from"./index.5c75a493.js";const p={read(a,e){return s(["companies",a,"bitsight","companies",e],()=>t.get(`${i}/companies/${a.value}/bitsight/companies/${e.value}`).then(n=>n.data))},list(a){return s(["companies",a,"bitsight","companies"],()=>t.get(`${i}/companies/${a.value}/bitsight/companies`).then(e=>e.data))}};export{p as u};
