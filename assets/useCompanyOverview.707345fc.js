@@ -1,1 +1,0 @@
-import{af as s,aO as n,aP as t}from"./index.12cbf833.js";const r={get(e){return s(["companies",e,"bundles"],()=>n.get(`${t}/companies/${e.value}/bundles`).then(a=>a.data))}},u={get(e){return s(["companies",e,"overview"],()=>n.get(`${t}/companies/${e.value}/overview`).then(a=>a.data))}};export{r as a,u};
