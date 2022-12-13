@@ -1,1 +1,0 @@
-import{c8 as s,n as _}from"./index.16b0dfbc.js";const o={};o.setup=(n,t)=>({id:s("id")});var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v(" TODO: Peraton faux-integration "+n._s(n.id)+" ")])},i=[];const r={};var c=_(o,a,i,!1,u,null,null,null);function u(n){for(let t in r)this[t]=r[t]}const d=function(){return c.exports}();export{d as default};
