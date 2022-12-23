@@ -1,1 +1,0 @@
-import{d as a}from"./index.c94f3a51.js";import{R as i}from"./index.7b326b04.js";const u={read(r,o){if(!r.value)throw new Error("Missing ID.");return a(()=>{const e=i.value.find(t=>t.company.id.value===o.value);if(e)return e})},list(r){if(!r.value)throw new Error("Missing ID.");return a(()=>i.value)}};export{u};
