@@ -1,0 +1,1 @@
+import{aP as s,aQ as _,n as o}from"./index.e870dd6d.js";const r={};r.setup=(t,e)=>(s.get(`${_}/migrate/all`),{});var l=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",[t._v("Migration template")])},i=[];const n={};var c=o(r,l,i,!1,u,null,null,null);function u(t){for(let e in n)this[e]=n[e]}const p=function(){return c.exports}();export{p as default};
