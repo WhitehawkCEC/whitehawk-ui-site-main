@@ -1,0 +1,1 @@
+import{ah as a,aP as i,aQ as s}from"./index.b4e33edc.js";const c={list(e){return a(["companies",e,"black-kite","entities"],()=>i.get(`${s}/companies/${e.value}/black-kite/entities`).then(t=>t.data))}};export{c as u};
