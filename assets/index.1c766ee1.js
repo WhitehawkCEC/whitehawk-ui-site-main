@@ -1,1 +1,0 @@
-import{D as r}from"./DynamicForm.2e4a2a04.js";import{aY as n}from"./index.6187e1e1.js";const o={value:{type:Object}};function m(t){return n({props:o,render(e){return e(r,{props:{value:this.value,schema:t},attrs:this.$attrs,on:this.$listeners})}})}export{m as d};
