@@ -1,0 +1,2 @@
+import{aT as n,aD as r,aP as o,aQ as u,ah as c,am as l,bm as f}from"./index.57286342.js";const d={create(){const e=n();return r(t=>o.post(`${u}/email`,t).then(a=>a.data),{onSuccess(){e.invalidateQueries(["email"],{exact:!0})}})}},p="cloudflare",x={get(){async function e(){const{data:t}=await l.get(`${f}/trace`);return m(t)}return c([p,"trace","ip"],e,{staleTime:1/0,retryDelay:12e4})}};function m(e){const t=e.trim().split(`
+`);for(const a of t){const[s,i]=a.split("=");if(s==="ip")return i}}export{d as a,x as u};
